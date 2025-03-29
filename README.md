@@ -1,0 +1,1 @@
+# newsage-chrome-plugin
